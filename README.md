@@ -4,9 +4,6 @@
 - 👀 I’m interested in Game Development, Music, AI and Web Development.
 - 🌱 I’m currently learning Python, C++ and Web Ecosystem tools such as JS, Node, Express, React, SQL, MongoDB, etc.
 - 📫 My email is: alexlancrajan@gmail.com
-- 😄 Pronouns: Alex or Xandru.
-- ⚡ Fun fact: A Crying Baby is Technically Louder Than a Car Horn.
-
 <!---
 AlexLancrajan/AlexLancrajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
